@@ -1,0 +1,103 @@
+General Scholarship Questions:
+What scholarships are available for SC students?
+
+What scholarships are available for ST students?
+
+What scholarships are available for BC students?
+
+What scholarships are available for MBC students?
+
+What scholarships are available for minority students?
+
+What scholarships are available for female students?
+
+What scholarships are available for differently abled students?
+
+What scholarships are available for science students?
+
+
+Eligibility-Based Questions:
+I am a first graduate engineering student. Which schemes can I apply for?
+
+My family income is less than Rs. 2.5 lakh. What scholarships can I apply for?
+
+I am a female engineering student. Which scholarships am I eligible for?
+
+I am a differently abled student pursuing technical education. Which schemes are available?
+
+I am a government school student. What support schemes can I apply for?
+
+I am an armed forces dependent. Which scholarship is available for me?
+
+I am pursuing a science degree. Which scholarship can I apply for?
+
+
+
+Benefit - Questions:
+What are the benefits of the AICTE Pragati Scholarship?
+
+What are the benefits of the AICTE Saksham Scholarship?
+
+How much financial assistance is provided under CSSS?
+
+What are the benefits of the Pudhumai Penn Scheme?
+
+What support is provided through the First Graduate Scholarship?
+
+
+Document Questions:
+What documents are required for BC Scholarship?
+
+What documents are required for SC Scholarship?
+
+What documents are required for First Graduate Scholarship?
+
+What documents are required for Minority Scholarship?
+
+What documents are commonly required for scholarship applications?
+
+
+Application Questions:
+How do I apply through NSP?
+
+How can I apply for the AICTE Pragati Scholarship?
+
+How can I apply for CSSS?
+
+Where can I apply for Tamil Nadu scholarships?
+
+Which portal should I use to apply for scholarships?
+
+
+Comparison Questions:
+Compare AICTE Pragati and AICTE Saksham Scholarships.
+
+Compare CSSS and PMSS.
+
+Which scholarship is best for female engineering students?
+
+What is the difference between BC and MBC scholarships?
+
+
+FAQ Style Questions:
+Can I apply for multiple scholarships?
+
+When should students apply for scholarships?
+
+How can I track my scholarship application status?
+
+What should I do if my scholarship application is rejected?
+
+What is the National Scholarship Portal (NSP)?
+
+
+Advanced Hackathon Demo Questions:
+I am a female SC engineering student with family income below Rs. 8 lakh. Which scholarships can I apply for?
+
+I am a first graduate from a BC family pursuing engineering. What scholarships are available?
+
+I am a science student from a minority community. Which schemes can I apply for?
+
+I am a differently abled female student studying engineering. What scholarships am I eligible for?
+
+Suggest all scholarships available for a student whose family income is less than Rs. 8 lakh.
