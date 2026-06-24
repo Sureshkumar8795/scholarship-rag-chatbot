@@ -2,6 +2,10 @@
 
 AI-powered Scholarship Recommendation Chatbot for Tamil Nadu and India.
 
+## Impact
+
+This project aims to improve scholarship awareness and educational accessibility by helping students quickly find financial support opportunities relevant to their background, category, income level, and educational goals.
+
 ## Features
 
 - PDF-based Knowledge Base
@@ -25,7 +29,3 @@ AI-powered Scholarship Recommendation Chatbot for Tamil Nadu and India.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-## Impact
-
-- This project aims to improve scholarship awareness and educational accessibility by helping students quickly find financial support opportunities relevant to their background, category, income level, and educational goals.
